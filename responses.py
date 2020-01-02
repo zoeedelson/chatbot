@@ -35,10 +35,9 @@ def time_resp(s):
 name_set = set(line.strip().strip(',\n') for line in open('names.txt'))
 
 def is_name(s):
-    if (('name' in s.split()) and ((s.split()[s.split().index('name')+1] or s.split()[s.split().index('name')+2]) in name_set)):
+    if 'name' in s.split():
         return True, s.split()[s.split().index('name')+2]
     if len(s.split()) <= 4:
-        print(name_set)
         for i in range(4):
             if s.split()[i] in name_set:
                 return True, s.split()[i]
