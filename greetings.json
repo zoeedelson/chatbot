@@ -1,0 +1,208 @@
+
+{
+    "name": "English",
+    "url": "http://www-01.sil.org/iso639-3/documentation.asp?id=eng",
+    "location": "United Kingdom, United States of America, Canada, Australia, various other countries.",
+    "greetings": [{
+        "phrase": "Hello",
+        "explanation": "formal greeting"
+    }, {
+        "phrase": "Hi",
+        "explanation": "informal greeting"
+    }, {
+        "phrase": "Good morning",
+        "explanation": "morning greeting (until noon)"
+    }, {
+        "phrase": "Good afternoon",
+        "explanation": "afternoon greeting"
+    }, {
+        "phrase": "Good evening",
+        "explanation": "formal evening greeting"
+    }, {
+        "phrase": "Good day",
+        "explanation": "formal daytime greeting"
+    }, {
+        "phrase": "How are you?",
+        "explanation": "how are you?"
+    }, {
+        "phrase": "Fine",
+        "explanation": "reply to how are you"
+    }, {
+        "phrase": "Fine, how are you?",
+        "explanation": "reply to how are you"
+    }, {
+        "phrase": "Fine, and how are you?",
+        "explanation": "reply to how are you"
+    }, {
+        "phrase": "Fine, how're you?",
+        "explanation": "reply to how are you (spoken language only)"
+    }, {
+        "phrase": "Fine, and you?",
+        "explanation": "reply to how are you"
+    }, {
+        "phrase": "I'm fine, thank you, and you?",
+        "explanation": "formal reply to how are you"
+    }, {
+        "phrase": "How's it going?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "How's it goin'?",
+        "explanation": "how are you? informal (spoken language only)"
+    }, {
+        "phrase": "What's new?",
+        "explanation": "how are you? informal"
+    }, {
+        "phrase": "Welcome",
+        "explanation": "formal greeting spoken to a person who is arriving"
+    }, {
+        "phrase": "Did you have a safe trip?",
+        "explanation": "greeting spoken to a person arriving from a long trip"
+    }, {
+        "phrase": "Did you have a good trip?",
+        "explanation": "greeting spoken to a person arriving from a long trip"
+    }, {
+        "phrase": "G'day",
+        "explanation": "general greeting used in some parts of Australia [eng-aus]"
+    }, {
+        "phrase": "Hiya",
+        "explanation": "informal greeting used in parts of Australia and UK (spoken language only) [eng-aus]"
+    }, {
+        "phrase": "How are you going?",
+        "explanation": "how are you? used in some parts of Australia [eng-aus]"
+    }, {
+        "phrase": "How ya goin'",
+        "explanation": "informal greeting used in some parts of Australia (spoken language only) [eng-aus]"
+    }, {
+        "phrase": "Hay gaan",
+        "explanation": "informal greeting used in some parts of Australia (spoken language only) [eng-aus]"
+    }, {
+        "phrase": "Hezza gaan",
+        "explanation": "informal greeting used in some parts of Australia (spoken language only) [eng-aus]"
+    }, {
+        "phrase": "Hoo ya gannin?",
+        "explanation": "how are you? in the Geordie dialect spoken in North East England [eng-geo]"
+    }, {
+        "phrase": "Hoo's ya fettle?",
+        "explanation": "how are you? in the Geordie dialect spoken in North East England [eng-geo]"
+    }, {
+        "phrase": "Aal reet?",
+        "explanation": "how are you? in the Geordie dialect spoken in North East England [eng-geo]"
+    }, {
+        "phrase": "Hey up",
+        "explanation": "informal greeting in the Yorkshire dialect of England [eng-noy]"
+    }, {
+        "phrase": "Ay up",
+        "explanation": "informal greeting in the East Midlands and Yorkshire dialects of England [eng-noy]"
+    }, {
+        "phrase": "Ey up",
+        "explanation": "informal greeting in the East Midlands dialect of England [eng-noy]"
+    }, {
+        "phrase": "Worrow",
+        "explanation": "informal greeting in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "Am yow awight?",
+        "explanation": "how are you? in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "Oyamwa?",
+        "explanation": "how are you? in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "Mornin'",
+        "explanation": "morning greeting in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "Afternoon",
+        "explanation": "afternoon greeting in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "Evenin'",
+        "explanation": "evening greeting in the West Midlands dialect of England [eng-bir]"
+    }, {
+        "phrase": "How goes it?",
+        "explanation": "how are you? in the Cumberland dialect of England, 19th century [eng-cum]"
+    }, {
+        "phrase": "How are ye the day?",
+        "explanation": "how are you? in the Cumberland dialect of England, 19th century [eng-cum]"
+    }, {
+        "phrase": "Gyly",
+        "explanation": "reply to How are ye the day in the Cumberland dialect, 19th century [eng-cum]"
+    }, {
+        "phrase": "Whit wey are ye?",
+        "explanation": "how are you? spoken in the Ulster dialect [eng-noh]"
+    }, {
+        "phrase": "What about ye?",
+        "explanation": "how are you? in the Ulster dialect [eng-noh]"
+    }, {
+        "phrase": "How bist?",
+        "explanation": "how are you? in the Bristol dialect of England (spoken language only)"
+    }, {
+        "phrase": "How bist yow?",
+        "explanation": "how are you? in the Bristol dialect of England (spoken language only)"
+    }, {
+        "phrase": "How bist yer?",
+        "explanation": "how are you? in the south Worcestershire dialect of England (spoken language only)"
+    }, {
+        "phrase": "How bist ye?",
+        "explanation": "how are you? in the Montgomeryshire dialect of England (spoken language only)"
+    }, {
+        "phrase": "How bist 'e?",
+        "explanation": "how are you? in the Northamptonshire dialect of England (spoken language only)"
+    }, {
+        "phrase": "Ow bist?",
+        "explanation": "how are you? in Yorkshire, Lancashire, Shropshire, Wolverhampton dialects of England"
+    }, {
+        "phrase": "Bay too ba",
+        "explanation": "reply to Ow bist"
+    }, {
+        "phrase": "Howdy",
+        "explanation": "informal greeting used in Texas, United States of America"
+    }, {
+        "phrase": "Where ya'at?",
+        "explanation": "informal greeting used in New Orleans, United States (spoken language only)"
+    }, {
+        "phrase": "Hi y'all",
+        "explanation": "informal greeting spoken to a group of people in southern United States"
+    }, {
+        "phrase": "Howzit?",
+        "explanation": "how are you? used in South Africa and Namibia"
+    }, {
+        "phrase": "Feeling somehow?",
+        "explanation": "how are you? used in Namibia"
+    }, {
+        "phrase": "How is the morning?",
+        "explanation": "morning greeting used in Namibia"
+    }, {
+        "phrase": "How now",
+        "explanation": "general greeting used in the 16th century"
+    }, {
+        "phrase": "Well met",
+        "explanation": "general greeting used in the 16th century"
+    }, {
+        "phrase": "Good den",
+        "explanation": "general greeting used in the 16th century"
+    }, {
+        "phrase": "Give you a good day",
+        "explanation": "formal greeting used in the 16th century"
+    }, {
+        "phrase": "Give thee a good day",
+        "explanation": "informal greeting used in the 16th century"
+    }, {
+        "phrase": "Good morrow",
+        "explanation": "morning greeting used in the 16th century"
+    }, {
+        "phrase": "Give you good morrow",
+        "explanation": "formal morning greeting used in the 16th century"
+    }, {
+        "phrase": "Give thee good morrow",
+        "explanation": "informal morning greeting used in the 16th century"
+    }, {
+        "phrase": "Good even",
+        "explanation": "evening greeting used in the 16th century"
+    }, {
+        "phrase": "Good e'en",
+        "explanation": "evening greeting used in the 16th century"
+    }, {
+        "phrase": "Give you good e'en",
+        "explanation": "formal evening greeting used in the 16th century"
+    }, {
+        "phrase": "Give thee good e'en",
+        "explanation": "informal evening greeting used in the 16th century"
+    }]
+}

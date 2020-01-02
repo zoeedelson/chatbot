@@ -13,8 +13,8 @@ def index():
 @route("/chat", method='POST')
 def chat():
     user_message = request.POST.get('msg')
-    bot_message = bot_resp(user_message)
-    return json.dumps({"animation": "inlove", "msg": bot_message})
+    animation, bot_message = bot_resp(user_message)
+    return json.dumps({"animation": animation, "msg": bot_message})
 
 
 @route("/test", method='POST')
